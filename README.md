@@ -1,5 +1,5 @@
 # LearnSwift-ContactsApp-CoreData
-* [Navigation Controller]
-* [Search Bar]
-* [TableView-Cell]
-* [Core Data]
+* Navigation Controller
+* Search Bar
+* TableView-Cell
+* Core Data
